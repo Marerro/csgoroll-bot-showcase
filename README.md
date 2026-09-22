@@ -21,11 +21,13 @@ The system consists of multiple components that work together to ensure fast rea
 
 Real-time listings received by the system:
 
+[▶️ Watch Withdraw Bot Demo](https://raw.githubusercontent.com/Marerro/csgoroll-bot-showcase/main/screenshots/withdraw-bot-demo.mp4)
+
 ![Listings Demo](screenshots/listings.png)
 
-![Notification System](screenshots/notifications.png);
+![Notification System](screenshots/notifications.png)
 
-![Success Trade](screenshots/success.png);
+![Success Trade](screenshots/success.png)
 
 ## Tech Stack
 
